@@ -1,2 +1,3 @@
 #comment n1
-print("Hello, World!")  #comment n2
+def greet():    
+    return "Hello, World!"
